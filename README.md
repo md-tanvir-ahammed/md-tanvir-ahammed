@@ -5,8 +5,8 @@
 **Computer Science & Engineering Undergraduate**
 Manarat International University, Dhaka, Bangladesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tarek@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tanvir-ahammed-cse/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdtanvirahammed10@gmail.com)
 
 </div>
 
@@ -79,4 +79,4 @@ Machine learning fundamentals and applied data analysis, transitioning from cour
 
 ## Connect
 
-📍 Dhaka, Bangladesh · [LinkedIn](www.linkedin.com/in/md-tanvir-ahammed-cse) · 📧 mdtanvirahammed10@gmail.com
+📍 Dhaka, Bangladesh · [LinkedIn](https://www.linkedin.com/in/md-tanvir-ahammed-cse/) · 📧 mdtanvirahammed10@gmail.com
