@@ -79,4 +79,4 @@ Machine learning fundamentals and applied data analysis, transitioning from cour
 
 ## Connect
 
-📍 Dhaka, Bangladesh · [LinkedIn](#) · 📧 mdtanvirahammed10@gmail.com
+📍 Dhaka, Bangladesh · [LinkedIn](www.linkedin.com/in/md-tanvir-ahammed-cse) · 📧 mdtanvirahammed10@gmail.com
